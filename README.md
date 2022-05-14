@@ -8,12 +8,6 @@
 
 ###### **Two Programming Tasks maintained under different directories**
 
-**Branches**
-
-- master: Having the final tested and documented Script.
-
-- RnD: Used this as a rough sheet trying out different strategies for the task.
-
 **Directory Structure:**
 
 <pre>
